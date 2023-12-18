@@ -27,14 +27,10 @@ Powered by Scratch
 
 ## In the last commit..
 # Author - Dominik Kulás
-- I loaded the race track
-- I made the code for the starting screen
-- I made the code for the starting lights
-- I coordinated the cars at the start
-- I made an Images folder where the images to be used are
-
+- I changed the default rotation of the cars
+- I changed the map size, and the run of the game
+- I coded the movement (Only W and UP ARROW yet)
+- I made it so that when the player goes off the field, his HP decreases by 5 every 0.5 seconds
+- I coded the speed of both players
 
 ![color picker](https://cdn.discordapp.com/attachments/1053971560500826185/1186300833055375511/ezgif.com-crop.gif?ex=6592bfbf&is=65804abf&hm=9c2b0cf357d0eaf52b0d3f5e4add198dc200c8fb8d05d4db0c46f623704375bf&)
-
-
-
