@@ -13,7 +13,7 @@ Powered by Scratch
 - Fast game mode
 - Optimized ride
 - Fast runtime environment (Scratch dependent lol)
-- 
+
 ## Movement
 
 - Player 1 - W, A, S, D
@@ -24,3 +24,7 @@ Powered by Scratch
 - Dominik Kulás - Development, Design, Github Management
 - Iván Vörös-Szűcs - Development, Design
 - Dávid Sós - Development, Design
+
+## In the last commit..
+
+- New README.md
