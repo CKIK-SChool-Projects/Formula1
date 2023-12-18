@@ -26,5 +26,7 @@ Powered by Scratch
 - Dávid Sós - Development, Design
 
 ## In the last commit..
+# Author - Dominik Kulás
+- I created the different screens
+- I put both cars as a player (costume)
 
-- New README.md
