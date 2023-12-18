@@ -27,6 +27,10 @@ Powered by Scratch
 
 ## In the last commit..
 # Author - Dominik Kulás
-- I created the different screens
-- I put both cars as a player (costume)
+- I loaded the race track
+- I made the code for the starting screen
+- I made the code for the starting lights
+- I coordinated the cars at the start
+- I made an Images folder where the images to be used are
+
 
