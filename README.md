@@ -34,3 +34,7 @@ Powered by Scratch
 - I made an Images folder where the images to be used are
 
 
+![color picker](https://cdn.discordapp.com/attachments/1053971560500826185/1186300833055375511/ezgif.com-crop.gif?ex=6592bfbf&is=65804abf&hm=9c2b0cf357d0eaf52b0d3f5e4add198dc200c8fb8d05d4db0c46f623704375bf&)
+
+
+
