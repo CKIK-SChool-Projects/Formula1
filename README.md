@@ -25,9 +25,10 @@ Powered by Scratch
 - Dávid Sós - Development, Design
 
 ## In the last commit.. (Author - Dominik Kulás)
-- I coded the player health
-- I renamed some backgrounds for the easier foundation
-- I changed that from now on you lose 5 HP every 0.5 seconds instead of every 1 second if you go off the track
+- I made a sprite for the health visual
+- I coded some security features like always in ONE position
+- I made sure that the health variable is not visible in the starting screen
+- I coded the boost system for both players
 
 ## TODO - By Priority
 
