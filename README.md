@@ -32,6 +32,6 @@ Powered by Scratch
 
 ## TODO - By Priority
 
-- Code the left and right movement for both player!
+- Code the left and right movement for both player! DONE 
 - Figure out how should use the starting flag
 - Code spawnpoints related to something next to the map
