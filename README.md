@@ -24,14 +24,11 @@ Powered by Scratch
 - Iván Vörös-Szűcs - Development, Design
 - Dávid Sós - Development, Design
 
-## In the last commit.. (Author - Kulás Dominik, Sós Dávid, Vörös-Szűcs Iván)
-- Fixed the player 1's speed
-- Fixed the steering speed
-- Added the CheckeredStripe from /Images/CheckeredStripe
-- From 1 sec -> 0.3 AND -5 -> 10 dmg when the player enters the grey area
-- Fixed the dead screens
+## In the last commit.. (Author - Kulás Dominik)
+- Cleaned the code
+- Cleaned the comments + added more
+- Fixed some annoying bugs
 
 ## TODO - By Priority
 
-- Make multiple rounds
 - Manage if one of the player is touching the red line after the 3rd round then make the player win etc...
