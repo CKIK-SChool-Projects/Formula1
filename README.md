@@ -25,11 +25,9 @@ Powered by Scratch
 - Iván Vörös-Szűcs - Development, Design
 - Dávid Sós - Development, Design
 
-## In the last commit.. (Author - Dominik Kulás)
-- I fixed the steering
-- I cleaned code
+## In the last commit.. (Author - Sós Dávid)
+- We started to use the starting flag as a plus graphical element at the start
 
 ## TODO - By Priority
 
-- Figure out how should use the starting flag
 - Code spawnpoints related to something next to the map
