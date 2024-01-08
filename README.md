@@ -12,6 +12,7 @@ Powered by Scratch
 - Fast game mode
 - Optimized ride
 - Fast runtime environment (Scratch dependent lol)
+- If a player's skill is weaker than the other's then the weaker player can control the Red car
 
 ## Movement
 
@@ -25,13 +26,10 @@ Powered by Scratch
 - Dávid Sós - Development, Design
 
 ## In the last commit.. (Author - Dominik Kulás)
-- I made a sprite for the health visual
-- I coded some security features like always in ONE position
-- I made sure that the health variable is not visible in the starting screen
-- I coded the boost system for both players
+- I fixed the steering
+- I cleaned code
 
 ## TODO - By Priority
 
-- Code the left and right movement for both player! DONE 
 - Figure out how should use the starting flag
 - Code spawnpoints related to something next to the map
