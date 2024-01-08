@@ -12,12 +12,11 @@ Powered by Scratch
 - Fast game mode
 - Optimized ride
 - Fast runtime environment (Scratch dependent lol)
-- If a player's skill is weaker than the other's then the weaker player can control the Red car
 
 ## Movement
 
-- Player 1 - W, A, S, D
-- Player 2 - Arrows
+- Player 1 - W, A, S, D, Space to boost!
+- Player 2 - Arrows, 0 to boost!
 
 ## Credits
 
@@ -25,8 +24,12 @@ Powered by Scratch
 - Iván Vörös-Szűcs - Development, Design
 - Dávid Sós - Development, Design
 
-## In the last commit.. (Author - Sós Dávid)
-- We started to use the starting flag as a plus graphical element at the start
+## In the last commit.. (Author - Kulás Dominik, Sós Dávid, Vörös-Szűcs Iván)
+- Fixed the player 1's speed
+- Fixed the steering speed
+- Added the CheckeredStripe from /Images/CheckeredStripe
+- From 1 sec -> 0.3 AND -5 -> 10 dmg when the player enters the grey area
+- Fixed the dead screens
 
 ## TODO - By Priority
 
