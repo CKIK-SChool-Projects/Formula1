@@ -26,6 +26,7 @@ Powered by Scratch
 
 ## In the last commit.. (Author - Kulás Dominik)
 - Added the win system based on David's system.
+- Added the WinScreen.png to /Images/
 
 ## TODO - By Priority
 
