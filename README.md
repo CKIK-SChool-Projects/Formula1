@@ -25,10 +25,8 @@ Powered by Scratch
 - Dávid Sós - Development, Design
 
 ## In the last commit.. (Author - Kulás Dominik)
-- Cleaned the code
-- Cleaned the comments + added more
-- Fixed some annoying bugs
+- Added the win system based on David's system.
 
 ## TODO - By Priority
 
-- Manage if one of the player is touching the red line after the 3rd round then make the player win etc...
+- Everything is good :OOO
