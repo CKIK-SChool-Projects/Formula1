@@ -25,9 +25,9 @@ Powered by Scratch
 - Dávid Sós - Development, Design
 
 ## In the last commit.. (Author - Kulás Dominik)
-- Added the ! mark when one of the players is off the track
-- Added the ExclamanationMark.png to /Images/
+- Manage that the ! mark is flashing faster
+- More damage if the player is off the track
 
 ## TODO - By Priority
 
-- Everything is good :OOO
+- Everything is done;)
