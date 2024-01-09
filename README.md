@@ -25,8 +25,8 @@ Powered by Scratch
 - Dávid Sós - Development, Design
 
 ## In the last commit.. (Author - Kulás Dominik)
-- Added the win system based on David's system.
-- Added the WinScreen.png to /Images/
+- Added the ! mark when one of the players is off the track
+- Added the ExclamanationMark.png to /Images/
 
 ## TODO - By Priority
 
